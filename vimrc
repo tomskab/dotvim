@@ -1,6 +1,9 @@
 " Personal .vimrc file of tomskab
 " Based on .vimrc file of Steve Francia:
 " http://spf13.com/post/perfect-vimrc-vim-config-file
+"
+" When us in terminal vim do not forget to:
+" export TERM="xterm-256color" set eventually in your .bashrc
 
 set nocompatible
 
