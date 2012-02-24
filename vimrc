@@ -51,8 +51,11 @@ call pathogen#infect()
 " }
 
 " Vim UI {
-    "color solarized                 " load a colorscheme
-    "let g:solarized_termcolors=256
+    let g:solarized_termtrans=1
+    let g:solarized_termcolors=256
+    let g:solarized_contrast="high"
+    let g:solarized_visibility="high"
+    colorscheme solarized
     set tabpagemax=15               " only show 15 tabs
     set showmode                    " display the current mode
 
