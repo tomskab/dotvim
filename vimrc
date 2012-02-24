@@ -4,6 +4,9 @@
 
 set nocompatible
 
+" Chargement de pathogen
+call pathogen#infect()
+
 " General {
     if has('gui_running')
         set background=light
