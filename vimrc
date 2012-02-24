@@ -146,7 +146,7 @@ call pathogen#infect()
     " }
 
     " NerdTree {
-        "nnoremap <silent> <F9> :NERDTree<CR>
+        nnoremap <silent> <F9> :NERDTree<CR>
         ""map <C-e> :NERDTreeToggle<CR>:NERDTreeMirror<CR>
         ""map <leader>e :NERDTreeFind<CR>
         ""nmap <leader>nt :NERDTreeFind<CR>
