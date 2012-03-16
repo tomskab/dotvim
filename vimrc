@@ -1,4 +1,5 @@
 " Personal .vimrc file of tomskab
+" in progress
 " Based on .vimrc file of Steve Francia:
 " http://spf13.com/post/perfect-vimrc-vim-config-file
 "
